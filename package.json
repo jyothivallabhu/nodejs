@@ -7,11 +7,14 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
   }
-  
 }

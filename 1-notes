@@ -5,3 +5,14 @@ Buile In Modules
    - Http
 
 lodash is just a utility library
+
+dev dependenciees can be installed with the command -D or --save-dev
+lodash is for
+dev dependencies are not actually required in production
+nodemon is dev dependency, it will restart my application automatically
+after intsalling nodemon change the script tag in package.json file 
+
+to uninstall application npm uninstall packageName(nuclear approach)
+
+npm install -g packageName (to install globally if installed globally we can you this in any of our application)
+

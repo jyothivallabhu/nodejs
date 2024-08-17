@@ -1,0 +1,1 @@
+//event loop is what allows node js to perform non blocking operations
